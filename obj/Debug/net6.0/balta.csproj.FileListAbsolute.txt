@@ -1,0 +1,15 @@
+C:\balta\bin\Debug\net6.0\balta.exe
+C:\balta\bin\Debug\net6.0\balta.dll
+C:\balta\bin\Debug\net6.0\balta.deps.json
+C:\balta\bin\Debug\net6.0\balta.runtimeconfig.json
+C:\balta\bin\Debug\net6.0\ref\balta.dll
+C:\balta\bin\Debug\net6.0\balta.pdb
+C:\balta\obj\Debug\net6.0\balta.csproj.AssemblyReference.cache
+C:\balta\obj\Debug\net6.0\balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\balta\obj\Debug\net6.0\balta.AssemblyInfoInputs.cache
+C:\balta\obj\Debug\net6.0\balta.AssemblyInfo.cs
+C:\balta\obj\Debug\net6.0\balta.csproj.CoreCompileInputs.cache
+C:\balta\obj\Debug\net6.0\balta.dll
+C:\balta\obj\Debug\net6.0\ref\balta.dll
+C:\balta\obj\Debug\net6.0\balta.pdb
+C:\balta\obj\Debug\net6.0\balta.genruntimeconfig.cache
